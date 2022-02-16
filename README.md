@@ -1,4 +1,4 @@
-# AlX pre_course
+## AlX pre_course
 Git Basics:
 - Git and Github
 - How to create a repository
